@@ -1,4 +1,4 @@
-package JavaUtil;
+package com.richasdy.HelloLogging.JavaUtil;
 
 import java.util.logging.Logger;
 
