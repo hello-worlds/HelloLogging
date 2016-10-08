@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 
 public class HelloLog4j {
 
-	final static Logger logger = Logger.getLogger(HelloLog4j.class);
+	final static Logger log = Logger.getLogger(HelloLog4j.class);
 
 	public static void main(String[] args) {
 
@@ -16,22 +16,22 @@ public class HelloLog4j {
 	private void runMe(String parameter) {
 		
 		
-		if (logger.isTraceEnabled()) {
-			logger.trace("This is trace : " + parameter);
+		if (log.isTraceEnabled()) {
+			log.trace("This is trace : " + parameter);
 		}
 		
-		if (logger.isDebugEnabled()) {
-			logger.debug("This is debug : " + parameter);
+		if (log.isDebugEnabled()) {
+			log.debug("This is debug : " + parameter);
 		}
 
-		if (logger.isInfoEnabled()) {
-			logger.info("This is info : " + parameter);
+		if (log.isInfoEnabled()) {
+			log.info("This is info : " + parameter);
 		}
 		
 		
-		logger.warn("This is warn : " + parameter);
-		logger.error("This is error : " + parameter);
-		logger.fatal("This is fatal : " + parameter);
+		log.warn("This is warn : " + parameter);
+		log.error("This is error : " + parameter);
+		log.fatal("This is fatal : " + parameter);
 		
 
 	}

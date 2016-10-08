@@ -4,7 +4,7 @@ import org.apache.log4j.Logger;
 
 public class HelloLog4jException {
 
-	final static Logger logger = Logger.getLogger(HelloLog4jException.class);
+	final static Logger log = Logger.getLogger(HelloLog4jException.class);
 
 	public static void main(String[] args) {
 
@@ -13,7 +13,7 @@ public class HelloLog4jException {
 		try {
 			obj.divide();
 		} catch (ArithmeticException ex) {
-			logger.error("Sorry, something wrong!", ex);
+			log.error("Sorry, something wrong!", ex);
 		}
 
 	}
