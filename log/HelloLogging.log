@@ -199,3 +199,9 @@
 2016-10-08 22:10:15,332 WARN  HelloLog4j:main:33 - This is warn : richasdy
 2016-10-08 22:10:15,333 ERROR HelloLog4j:main:34 - This is error : richasdy
 2016-10-08 22:10:15,334 FATAL HelloLog4j:main:35 - This is fatal : richasdy
+2016-10-08 22:11:59,766 TRACE HelloLog4j:main:22 - This is trace : richasdy
+2016-10-08 22:12:00,360 DEBUG HelloLog4j:main:26 - This is debug : richasdy
+2016-10-08 22:12:00,363 INFO  HelloLog4j:main:30 - This is info : richasdy
+2016-10-08 22:12:00,365 WARN  HelloLog4j:main:33 - This is warn : richasdy
+2016-10-08 22:12:00,367 ERROR HelloLog4j:main:34 - This is error : richasdy
+2016-10-08 22:12:00,369 FATAL HelloLog4j:main:35 - This is fatal : richasdy
