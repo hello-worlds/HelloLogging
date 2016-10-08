@@ -118,3 +118,9 @@
 22:25:41,336 WARN  HelloCommonLogging:main:38 - This is warn : richasdy
 22:25:41,337 ERROR HelloCommonLogging:main:39 - This is error : richasdy
 22:25:41,337 FATAL HelloCommonLogging:main:40 - This is fatal : richasdy
+22:28:06,277 TRACE HelloCommonLogging:main:27 - This is trace : richasdy
+22:28:06,281 DEBUG HelloCommonLogging:main:31 - This is debug : richasdy
+22:28:06,281 INFO  HelloCommonLogging:main:35 - This is info : richasdy
+22:28:06,282 WARN  HelloCommonLogging:main:38 - This is warn : richasdy
+22:28:06,282 ERROR HelloCommonLogging:main:39 - This is error : richasdy
+22:28:06,282 FATAL HelloCommonLogging:main:40 - This is fatal : richasdy
