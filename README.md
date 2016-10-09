@@ -21,6 +21,7 @@ eclipse sample java logging implementation
 
 ## log4j.properties implementation
 * less verbose than using xml
+
 File Location
 ```java
 src/main/resources/log4j.preperties
