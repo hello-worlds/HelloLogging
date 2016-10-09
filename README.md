@@ -19,14 +19,14 @@ eclipse sample java logging implementation
 * xml logging
 * mysql logging
 
-### log4j.properties implementation
+## log4j.properties implementation
 less verbose than using xml
 Connection File Location
 ```java
 src/main/resources/log4j.preperties
 ```
 
-### log4j.xml implementation
+## log4j.xml implementation
 * more verbose than using .properties
 * recomended to use if you want to implement newest log4j feature
 * DTD structure validation
@@ -36,7 +36,7 @@ Connection File Location
 src/main/resources/log4j.xml
 ```
 
-### MySQL logging DDL
+## MySQL logging DDL
 ```sql
 CREATE TABLE `LOGS` (
   `USER_ID` varchar(20) NOT NULL,
