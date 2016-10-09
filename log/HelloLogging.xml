@@ -1,0 +1,625 @@
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971339502" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971340217" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971340218" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971340219" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971340220" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971601371" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971602231" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971602232" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971602233" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971602234" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971632833" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971633997" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971633999" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971634002" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971634003" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971681166" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971682542" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971682543" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971682544" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971682545" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971866250" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971866970" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971866971" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971866972" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971866973" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971906158" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971907401" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971907402" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971907403" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971907404" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971942422" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971943144" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971943145" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971943146" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971943147" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971982174" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971982890" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971982891" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971982892" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475971982893" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972031866" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972033058" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972033060" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972033061" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972033062" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972136997" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972138122" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972138123" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972138124" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972138125" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972187594" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972187596" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972187597" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972187598" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972187599" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972425679" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972425681" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972425682" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972425683" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972425684" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972534414" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972534415" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972534417" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972534418" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972534419" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972559510" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972559511" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972559513" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972559514" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972559515" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972591688" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972591690" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972591692" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972591693" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972591699" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972636125" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972636127" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972636129" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972636130" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972636131" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972660760" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972660762" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972660763" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972660765" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972660766" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972689906" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972689908" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972689911" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972689912" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972689914" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972806620" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972806622" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972806624" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972806625" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972806627" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972953766" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972953767" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972953769" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972953770" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475972953772" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475972993700" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is commonloggin debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="31"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475972993701" level="INFO" thread="main">
+<log4j:message><![CDATA[This is commonloggin info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475972993702" level="WARN" thread="main">
+<log4j:message><![CDATA[This is commonloggin warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475972993702" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is commonloggin error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475972993703" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is commonloggin fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="40"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973061118" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is common debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="31"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973061119" level="INFO" thread="main">
+<log4j:message><![CDATA[This is common info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973061120" level="WARN" thread="main">
+<log4j:message><![CDATA[This is common warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973061121" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is common error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973061121" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is common fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="40"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973087036" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="31"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973087037" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973087038" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973087039" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973087040" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="40"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973119657" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="31"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973119658" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="35"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973119659" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="38"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973119660" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="39"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" timestamp="1475973119661" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.CommonLogging.HelloCommonLogging" method="runMe" file="HelloCommonLogging.java" line="40"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475973126707" level="DEBUG" thread="main">
+<log4j:message><![CDATA[This is debug : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="26"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475973126709" level="INFO" thread="main">
+<log4j:message><![CDATA[This is info : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="30"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475973126710" level="WARN" thread="main">
+<log4j:message><![CDATA[This is warn : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="33"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475973126711" level="ERROR" thread="main">
+<log4j:message><![CDATA[This is error : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="34"/>
+</log4j:event>
+
+<log4j:event logger="com.richasdy.HelloLogging.Log4j.HelloLog4j" timestamp="1475973126712" level="FATAL" thread="main">
+<log4j:message><![CDATA[This is fatal : richasdy]]></log4j:message>
+<log4j:locationInfo class="com.richasdy.HelloLogging.Log4j.HelloLog4j" method="runMe" file="HelloLog4j.java" line="35"/>
+</log4j:event>
+
